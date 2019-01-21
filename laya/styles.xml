@@ -1,0 +1,13 @@
+<res>
+   <item name="image/TitleName.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/picture3.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/gameBG.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/picture0.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/picture1.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/picture2.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/picture4.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/picture5.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/picture6.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/picture7.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="image/zwsf.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>

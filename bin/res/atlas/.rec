@@ -1,0 +1,68 @@
+D .
+D comp
+P D12221A9 bg.png
+P 9401CC40 blank.png
+P B03390E5 btn_close.png
+P 1F3929EA button.png
+P 6CC6DF97 checkbox.png
+P FB94CCF2 clip_num.png
+P F7B6B7D7 clip_selectBox.png
+P 755271AE clip_tree_arrow.png
+P 859FD34C clip_tree_folder.png
+P A0E3B8F9 combobox.png
+P 9EDA959E hscroll$bar.png
+P 1AB768D4 hscroll$down.png
+P 685261D3 hscroll$up.png
+P 274B8076 hscroll.png
+P E466EB1C hslider$bar.png
+P C4BECA54 hslider.png
+P 5EDC128C html.png
+P ACFFCCCF image.png
+P 5EDC128C label.png
+P 5EDC128C linkbutton.png
+P 9E4DD730 progress$bar.png
+P 3FD78E12 progress.png
+P BF898D6A radio.png
+P BF898D6A radiogroup.png
+P 8CFD9D35 tab.png
+P BDA71F88 textarea.png
+P BDA71F88 textinput.png
+P 52107B89 vscroll$bar.png
+P E26B933E vscroll$down.png
+P B9680947 vscroll$up.png
+P 7E990267 vscroll.png
+P E466EB1C vslider$bar.png
+P 2BFF7046 vslider.png
+D image
+R E03B23A4 albumBG.jpg
+R 1068CD89 chooseBG.jpg
+R 540FB51E gameBG.jpg
+R 90DBAA5A picture0.jpg
+R F8D34474 picture1.jpg
+R 8A3EDF08 picture2.jpg
+R 0A9F6AC7 picture3.jpg
+R 3ADCC65D picture4.jpg
+R 85F322C5 picture5.jpg
+R 33E96201 picture6.jpg
+R F92A1BF5 picture7.jpg
+R CD789419 TitleBg.jpg
+R D617139E TitleName.png
+R D949A6CB zwsf.png
+D sound
+R 68F69CBA Puzzlebgm.mp3
+D image/icon
+P 1BAC1D3C album.png
+P DAF7713F AlbumButton.png
+P 47FBDB4C AlbumButton2.png
+P 61D2D19A Asset 22shaded_.png
+P 330D0AA9 Choose.png
+P 9D080B6A flat_icon_menu.png
+P 87E11CB5 Icon_SoundOff.png
+P 2683FA27 Icon_SoundOn.png
+P 3BF4FAAC lvl_lock_block.png
+P A6D50613 lvl_lock_block_pressed.png
+P 0C7C74C2 SoundButton.png
+P A909CCA6 StartButton.png
+P 36F8EA08 StartButton2.png
+P 9232E642 UI_Fill_Red.png
+P F4669D96 UI_Frame_Dark_White.png
